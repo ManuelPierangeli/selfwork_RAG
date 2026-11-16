@@ -1,0 +1,14 @@
+### Profilo
+Nome: Luca Verdi
+Ruolo: Frontend Developer
+Esperienza: 3 anni
+
+### Competenze Tecniche
+JavaScript, TypeScript, React, Next.js, Tailwind CSS, HTML5, CSS3, Figma
+
+### Esperienze Lavorative
+CreativeAgency (2022 - Presente): Sviluppo di interfacce web responsive e single-page application in React e TypeScript
+DigitalStudio (2021 - 2022): Sviluppo siti vetrina ed e-commerce con Next.js
+
+### Lingue
+Italiano madrelingua, Spagnolo livello B1, Inglese livello B1

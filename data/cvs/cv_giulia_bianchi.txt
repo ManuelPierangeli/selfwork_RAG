@@ -1,0 +1,14 @@
+### Profilo
+Nome: Giulia Bianchi
+Ruolo: Data Scientist & AI Engineer
+Esperienza: 4 anni
+
+### Competenze Tecniche
+Python, PyTorch, TensorFlow, LangChain, ChromaDB, RAG, SQL, Pandas, Scikit-learn
+
+### Esperienze Lavorative
+DataMind AI (2023 - Presente): Progettazione di pipeline RAG per analisi documentale aziendale con database vettoriali e modelli LLM
+FinAnalytics (2021 - 2023): Creazione di modelli predittivi per il rischio di credito e analisi serie storiche
+
+### Lingue
+Italiano madrelingua, Inglese livello B2

@@ -1,0 +1,14 @@
+### Profilo
+Nome: Marco Rossi
+Ruolo: Senior Backend Developer
+Esperienza: 6 anni
+
+### Competenze Tecniche
+Python, FastAPI, Django, PostgreSQL, Docker, Kubernetes, AWS, Redis
+
+### Esperienze Lavorative
+TechNova Srl (2022 - Presente): Sviluppo di microservizi ad alta scalabilità in Python e FastAPI e gestione cluster Kubernetes su AWS
+WebSolutions (2019 - 2022): Sviluppo API REST con Django e ottimizzazione query PostgreSQL
+
+### Lingue
+Italiano madrelingua, Inglese livello C1

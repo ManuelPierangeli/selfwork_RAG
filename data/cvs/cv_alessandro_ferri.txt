@@ -1,0 +1,14 @@
+### Profilo
+Nome: Alessandro Ferri
+Ruolo: Product Manager
+Esperienza: 7 anni
+
+### Competenze Tecniche
+Agile, Scrum, Jira, Product Strategy, User Research, A/B Testing, SQL base
+
+### Esperienze Lavorative
+AppFactory (2020 - Presente): Gestione ciclo di vita prodotti mobile B2C con oltre 500000 utenti attivi e coordinamento team cross-funzionali
+StartUpHub (2017 - 2020): Analisi di mercato, definizione roadmap di prodotto e raccolta requisiti dagli stakeholder
+
+### Lingue
+Italiano madrelingua, Inglese livello C2, Francese livello B2

@@ -1,0 +1,14 @@
+### Profilo
+Nome: Elena Neri
+Ruolo: DevOps & Cloud Engineer
+Esperienza: 5 anni
+
+### Competenze Tecniche
+Linux, Terraform, Ansible, AWS, Azure, CI/CD, GitHub Actions, Docker, Prometheus, Grafana
+
+### Esperienze Lavorative
+CloudScale Spa (2021 - Presente): Automazione infrastruttura cloud tramite Terraform e gestione pipeline CI/CD
+NetSys (2019 - 2021): Amministrazione sistemi Linux e monitoraggio reti aziendali
+
+### Lingue
+Italiano madrelingua, Inglese livello C1
